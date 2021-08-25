@@ -10,4 +10,4 @@
 
 <p><img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=phonghotkgd2k1&show_icons=true&locale=en" alt="iamducthanh" /></p>
 <p>&ensp;</p>
-<img align="center" alt="GIF" src="https://github.com/phonghotkgd2k1/phonghotkgd2k1/blob/main/39Cg.gif?raw=true" width="100%" style="margin-bottom: 20px;" /> </br></br>
+<img align="center" alt="GIF" src="https://github.com/iamducthanh/iamducthanh/blob/main/39Cg.gif" width="100%" style="margin-bottom: 20px;" /> </br></br>

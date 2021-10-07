@@ -6,8 +6,8 @@
   -->
 - 👨‍💻 You can also check out my portfolio at [https://phongchutoa.tk/](https://phongchutoa.tk/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phonghotkgd2k1&show_icons=true&locale=en&layout=compact" alt="iamducthanh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phonghotkgd2k1&show_icons=true&locale=en&layout=compact" alt="phonghotkgd2k1" /></p>
 
-<p><img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=phonghotkgd2k1&show_icons=true&locale=en" alt="iamducthanh" /></p>
+<p><img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=phonghotkgd2k1&show_icons=true&locale=en" alt="phonghotkgd2k1" /></p>
 <p>&ensp;</p>
 <img align="center" alt="GIF" src="https://github.com/iamducthanh/iamducthanh/blob/main/39Cg.gif" width="100%" style="margin-bottom: 20px;" /> </br></br>

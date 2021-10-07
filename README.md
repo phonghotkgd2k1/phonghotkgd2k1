@@ -2,8 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phonghotkgd2k1&label=Profile%20views&color=129e00&style=plastic" alt="phonghotkgd2k1" /> </p>
 
-<!-- <img align="right" alt="GIF" src="https://i.gifer.com/39Cg.gif" width="400" style="margin-bottom: 20px;" /> </br></br>
-  -->
+<img align="right" alt="GIF" src="https://i.gifer.com/39Cg.gif" width="400" style="margin-bottom: 20px;" /> </br></br>
+ 
 - 👨‍💻 You can also check out my portfolio at [https://phongchutoa.tk](https://phongchutoa.tk)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phonghotkgd2k1&show_icons=true&locale=en&layout=compact" alt="phonghotkgd2k1" /></p>

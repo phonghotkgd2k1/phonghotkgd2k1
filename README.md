@@ -5,19 +5,16 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const  = {
-  pronouns: "He" | "his",
-  code: [React Native, ReactJs, Javascript, jQuery, HTML, CSS, PHP],
-  plaform: [WordPress],
-  techCommunities: {
-                      coorganizer: "Freelance",
-                      speaker: "Vietnamese",
-                      mentor: "Myself"
-                    },
- challenge: "I contributed code to several repositories in the 2020 GitHub and GitLab Archive Program."
-}
-```
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamducthanh&label=Profile%20views&color=129e00&style=plastic" alt="iamducthanh" /> </p>
+
+<!-- <img align="right" alt="GIF" src="https://i.gifer.com/39Cg.gif" width="400" style="margin-bottom: 20px;" /> </br></br>
+  -->
+- 👨‍💻 You can also check out my portfolio at [https://iamducthanh.github.io/My_Blog](https://iamducthanh.github.io/My_Blog)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamducthanh&show_icons=true&locale=en&layout=compact" alt="iamducthanh" /></p>
+
+<p><img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=iamducthanh&show_icons=true&locale=en" alt="iamducthanh" /></p>
+<p>&ensp;</p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> ***I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!** :)*
 
